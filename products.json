@@ -1,0 +1,1557 @@
+[
+  {
+    "id": 91,
+    "name": "Petal men's swim trunks",
+    "color": "Baby pink / deep rose",
+    "category": "Swimwear",
+    "capsule": "Men's swimwear",
+    "art": "trunks0",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "edits": [
+      "Pink edit"
+    ],
+    "match": 38,
+    "description": "Men\u2019s mid-thigh swim trunk concept with an elastic drawstring waist. Deep rose piping and a discreet oval emblem, coordinated with the Petal ruched bikini. Final fabric, sizing and construction are to be confirmed."
+  },
+  {
+    "id": 92,
+    "name": "Axis men's swim trunks",
+    "color": "Scarlet / ivory",
+    "category": "Swimwear",
+    "capsule": "Men's swimwear",
+    "art": "trunks1",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "edits": [
+      "Red edit",
+      "White edit"
+    ],
+    "match": 13,
+    "description": "Men\u2019s mid-thigh swim trunk concept with an elastic drawstring waist. Curved ivory side panels and an oval hem detail, coordinated with the Axis one-shoulder bikini. Final fabric, sizing and construction are to be confirmed."
+  },
+  {
+    "id": 93,
+    "name": "Tidal men's swim trunks",
+    "color": "Ice blue / midnight",
+    "category": "Swimwear",
+    "capsule": "Men's swimwear",
+    "art": "trunks2",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "edits": [
+      "Blue edit"
+    ],
+    "match": 20,
+    "description": "Men\u2019s mid-thigh swim trunk concept with an elastic drawstring waist. Midnight binding tracing the side seams, coordinated with the Tidal sculpted bikini. Final fabric, sizing and construction are to be confirmed."
+  },
+  {
+    "id": 94,
+    "name": "Eclipse men's swim trunks",
+    "color": "Black / silver",
+    "category": "Swimwear",
+    "capsule": "Men's swimwear",
+    "art": "trunks3",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "edits": [
+      "Black edit"
+    ],
+    "match": 26,
+    "description": "Men\u2019s mid-thigh swim trunk concept with an elastic drawstring waist. An asymmetric seam and silver oval zipper pull, coordinated with the Eclipse cutout swimsuit. Final fabric, sizing and construction are to be confirmed."
+  },
+  {
+    "id": 95,
+    "name": "Dune men's swim trunks",
+    "color": "Chalk / sand",
+    "category": "Swimwear",
+    "capsule": "Men's swimwear",
+    "art": "trunks4",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "edits": [
+      "White edit"
+    ],
+    "match": 32,
+    "description": "Men\u2019s mid-thigh swim trunk concept with an elastic drawstring waist. Sand panels and a champagne-tone oval detail, coordinated with the Dune asymmetric bikini. Final fabric, sizing and construction are to be confirmed."
+  },
+  {
+    "id": 96,
+    "name": "Cocoa men's swim trunks",
+    "color": "Chocolate",
+    "category": "Swimwear",
+    "capsule": "Men's swimwear",
+    "art": "trunks5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "edits": [],
+    "match": 77,
+    "description": "Men\u2019s mid-thigh swim trunk concept with an elastic drawstring waist. Tonal panels, a cream drawcord and bronze-tone oval detail, coordinated with the Cocoa ruched bikini. Final fabric, sizing and construction are to be confirmed."
+  },
+  {
+    "id": 55,
+    "name": "Oval tube top",
+    "color": "Scarlet",
+    "category": "Clothing",
+    "description": "Strapless fitted red tube top, straight neckline, small ivory oval emblem centered at chest. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "basicsref0",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Red edit"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Baby oval tee",
+    "color": "Baby pink",
+    "category": "Clothing",
+    "description": "Fitted baby-pink short sleeve baby tee, cropped waist, small deep red oval chest emblem. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "basicsref1",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Pink edit"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Core cropped tee",
+    "color": "Cream",
+    "category": "Clothing",
+    "description": "Boxy short sleeve cropped cream tee with small black oval chest emblem. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "basicsref2",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Sunfade oval tee",
+    "color": "Soft pink",
+    "category": "Clothing",
+    "description": "Relaxed soft-pink full-length tee, centered ivory oval graphic, softly faded finish. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "basicsref3",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Pink edit"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Shadow palms tee",
+    "color": "Black / ivory",
+    "category": "Clothing",
+    "description": "Oversized washed-black tee with ivory palm-tree illustration and small OMNIVERT typography. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "basicsref4",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Sport mesh tee",
+    "color": "White / cobalt",
+    "category": "Clothing",
+    "description": "White athletic short sleeve mesh tee with cobalt side panels and cobalt OMNIVERT chest wordmark. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "basicsref5",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Blue edit"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Paddock racing tee",
+    "color": "Forest / ivory",
+    "category": "Clothing",
+    "description": "Forest green boxy racing tee with broad ivory shoulder/chest stripe and small wordmark. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "layersref0",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Contour halter top",
+    "color": "Black",
+    "category": "Clothing",
+    "description": "Fitted black V-neck halter top with narrow double shoulder straps, seamed waist, small oval detail. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "layersref1",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Nightfall camp shirt",
+    "color": "Black / ivory",
+    "category": "Clothing",
+    "description": "Black short sleeve camp-collar button shirt with fine ivory piping at collar and placket. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "layersref2",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Palmera resort shirt",
+    "color": "Cream / forest",
+    "category": "Clothing",
+    "description": "Cream relaxed short sleeve resort shirt with original green palm illustrations across hem and shoulders. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "layersref3",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Classic oval hoodie",
+    "color": "Black / ivory",
+    "category": "Clothing",
+    "description": "Black pullover hoodie, kangaroo pocket, oversized ivory oval chest emblem, relaxed sleeves. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "layersref4",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Terrain zip hoodie",
+    "color": "Olive",
+    "category": "Clothing",
+    "description": "Washed olive full zip hoodie, tonal oval embroidered chest, roomy fit, two pockets. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "layersref5",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": []
+  },
+  {
+    "id": 67,
+    "name": "Switch windbreaker",
+    "color": "Black / ivory",
+    "category": "Clothing",
+    "description": "Black lightweight stand-collar zip windbreaker, narrow ivory curved piping and small oval chest logo. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "sportref0",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Cobalt track jacket",
+    "color": "Cobalt / ivory",
+    "category": "Clothing",
+    "description": "Cobalt stand-collar track jacket with sweeping ivory side panels and full zip, small oval chest emblem. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "sportref1",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Blue edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Night nylon shorts",
+    "color": "Black / ivory",
+    "category": "Clothing",
+    "description": "Black relaxed nylon drawstring shorts with ivory curved hem piping and small oval logo. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "sportref2",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Court mesh shorts",
+    "color": "Royal blue / ivory",
+    "category": "Clothing",
+    "description": "Royal blue loose athletic mesh shorts with double ivory hem binding and small oval logo. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "sportref3",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Blue edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Dune utility shorts",
+    "color": "Sand",
+    "category": "Clothing",
+    "description": "Sand khaki multi-pocket utility shorts with clean straight legs and discreet woven label. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "sportref4",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": []
+  },
+  {
+    "id": 72,
+    "name": "Cloud sweatpants",
+    "color": "Ivory",
+    "category": "Clothing",
+    "description": "Ivory relaxed straight leg sweatpants, elastic drawstring waistband, tonal oval thigh embroidery. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "sportref5",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Shadow parachute pants",
+    "color": "Black",
+    "category": "Clothing",
+    "description": "Black wide parachute cargo pants, articulated knees, subtle drawcord hems, small oval tab. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "coastref0",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Daybreak denim shorts",
+    "color": "Light blue",
+    "category": "Clothing",
+    "description": "Light-wash loose denim shorts with cut-off raw hems, five pockets, subtle oval embroidery. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "coastref1",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Blue edit"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Candy triangle bikini",
+    "color": "Baby pink",
+    "category": "Swimwear",
+    "description": "Baby pink triangle two-piece swimsuit with thin adjustable ties and discreet oval emblems. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "coastref2",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Pink edit"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Signal bandeau bikini",
+    "color": "Red / ivory",
+    "category": "Swimwear",
+    "description": "Red bandeau two-piece swimsuit with narrow ivory binding, small central oval emblem, slim adjustable shoulder ties. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "coastref3",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit",
+      "Red edit"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Cocoa ruched bikini",
+    "color": "Chocolate",
+    "category": "Swimwear",
+    "description": "Chocolate brown ruched triangle two-piece swimsuit with delicate ties and small oval hardware. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "coastref4",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [],
+    "match": 96
+  },
+  {
+    "id": 78,
+    "name": "Cobalt swim shorts",
+    "color": "Cobalt / ivory",
+    "category": "Swimwear",
+    "description": "Cobalt drawstring swim shorts with white piping and expressive original oval outline print. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "coastref5",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Blue edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Petal swim shorts",
+    "color": "Baby pink / ivory",
+    "category": "Swimwear",
+    "description": "Baby-pink relaxed drawstring swim shorts with white piping and small ivory oval emblem. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "resortref0",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Pink edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Omni beach towel",
+    "color": "Sand / black",
+    "category": "Accessories",
+    "description": "Sand terry rectangular beach towel, black large centered oval and small OMNIVERT, fringed short edges, folded so motif visible. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "resortref1",
+    "capsule": "Summer reference",
+    "sizes": [
+      "One size"
+    ],
+    "edits": [
+      "Black edit"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Nocturne cutout dress",
+    "color": "Black",
+    "category": "Clothing",
+    "description": "Black halter mini dress with a small waist cutout, fitted silhouette and discreet oval hardware. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "resortref2",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Black edit"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Dune mesh dress",
+    "color": "Ivory",
+    "category": "Clothing",
+    "description": "Ivory sleeveless long open-knit mesh beach dress with opaque matching slip lining, side slit, subtle small woven label. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "resortref3",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Cloud rib set",
+    "color": "Heather gray",
+    "category": "Matching sets",
+    "description": "Heather-gray fitted ribbed short sleeve crop top and relaxed matching shorts, tiny ivory oval chest mark. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "resortref4",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": []
+  },
+  {
+    "id": 84,
+    "name": "Petal terry shirt set",
+    "color": "Baby pink",
+    "category": "Matching sets",
+    "description": "Baby-pink short sleeve terry camp-collar button shirt and matching drawstring shorts, ivory piping, small oval chest logo. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "resortref5",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Pink edit"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Midnight track set",
+    "color": "Navy / ivory",
+    "category": "Matching sets",
+    "description": "Navy stand-collar track jacket and wide leg matching pants, ivory sporty shoulder bands and narrow side stripes. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "weekendref0",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "Blue edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Solstice linen set",
+    "color": "Cream",
+    "category": "Matching sets",
+    "description": "Cream linen short sleeve camp-collar button shirt and matching relaxed shorts, subtle tonal oval branding. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "weekendref1",
+    "capsule": "Summer reference",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Two-tone trucker",
+    "color": "Cream / chocolate",
+    "category": "Accessories",
+    "description": "Cream-front chocolate brown mesh trucker cap with large chocolate oval on cream front, brown curved brim. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "weekendref2",
+    "capsule": "Summer reference",
+    "sizes": [
+      "One size"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Forest dad cap",
+    "color": "Forest / ivory",
+    "category": "Accessories",
+    "description": "Forest green washed cotton dad cap with ivory oval front embroidery and curved brim. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "weekendref3",
+    "capsule": "Summer reference",
+    "sizes": [
+      "One size"
+    ],
+    "edits": [
+      "White edit"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Afterglow sunglasses",
+    "color": "Black",
+    "category": "Accessories",
+    "description": "Black rectangular wrap sunglasses with smoked lenses and tiny silver oval on temples, three-quarter angle. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "weekendref4",
+    "capsule": "Summer reference",
+    "sizes": [
+      "One size"
+    ],
+    "edits": [
+      "Black edit"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Petal beach bag",
+    "color": "Baby pink / ivory",
+    "category": "Bags",
+    "description": "Large baby-pink canvas beach tote with two ivory webbing handles, deep-pink oval center emblem and matching small pouch. An Omnivert concept brought forward from the summer collection reference; final materials and fit are to be confirmed.",
+    "art": "weekendref5",
+    "capsule": "Summer reference",
+    "sizes": [
+      "One size"
+    ],
+    "edits": [
+      "Pink edit",
+      "White edit"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Foldline pleated shell",
+    "color": "Charcoal / cobalt",
+    "category": "Clothing",
+    "description": "A collarless cropped shell concept with an offset curved zip and cocoon sleeves. Overlapping charcoal panels conceal cobalt accordion pleats at the sides. The idea is a quiet silhouette that reveals color as it opens and moves.",
+    "art": "form0",
+    "capsule": "Form study",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Spiral wrap lounge set",
+    "color": "Dusty rose / plum",
+    "category": "Matching sets",
+    "description": "A cropped wrap hoodie and petal-panel shorts concept. Spiraling seams, an asymmetric hem and tonal binding create the contrast through patternmaking, with no slogan or emblem. A softer, more sculptural take on a coordinated lounge set.",
+    "art": "form1",
+    "capsule": "Form study",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Contour drape set",
+    "color": "Chalk / black",
+    "category": "Matching sets",
+    "description": "An offset-neckline top with a draped side extension and a long wrap skirt. Two sweeping black-bound curves trace the ivory panels; a small oval side clasp anchors the silhouette. A study in structure and fluidity.",
+    "art": "form2",
+    "capsule": "Form study",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Afterimage draped jersey",
+    "color": "Washed black / ivory",
+    "category": "Clothing",
+    "description": "An asymmetric draped jersey concept with an exposed shoulder, scarf-like neckline extension and flared cuffs. An abstract orbital halftone print dissolves into scattered dots, suggesting presence that fades rather than spelling out a mood.",
+    "art": "form3",
+    "capsule": "Form study",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Crescent barrel denim",
+    "color": "Indigo / faded blue",
+    "category": "Clothing",
+    "description": "Sculpted barrel jeans built around crescent-shaped inset panels and articulated curved seams. An offset waistband and two small red bar tacks provide detail. A pattern-cutting concept with volume through the leg.",
+    "art": "form4",
+    "capsule": "Form study",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Origami halter set",
+    "color": "Tomato / brushed silver",
+    "category": "Matching sets",
+    "description": "A folded-panel halter and fluid wide-leg trousers with an overlapping hip wrap. Angular folds meet soft movement, with a restrained oval connector at the neckline. An evening set shaped by contrast in construction.",
+    "art": "form5",
+    "capsule": "Form study",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Camera Shy flash tee",
+    "color": "Washed black / ivory / red",
+    "category": "Clothing",
+    "description": "For the person who loves the night but ducks the photo. A washed-black oversized tee concept with a censored flash graphic on the back, CAMERA SHY lettering and a discreet oval mark on the front.",
+    "art": "identity0",
+    "capsule": "Every side",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Selectively Social wrap set",
+    "color": "Ivory / black / cobalt",
+    "category": "Matching sets",
+    "description": "Good company. By invitation. An asymmetric baby tee and wrap mini skort concept with SELECTIVELY SOCIAL lettering and a cobalt oval hip connector. Soft drape meets a sharp contrast neckline.",
+    "art": "identity3",
+    "capsule": "Every side",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Do Not Perceive cap",
+    "color": "Charcoal / red",
+    "category": "Accessories",
+    "description": "Low profile. Loud boundary. A washed-charcoal cap concept with DO NOT PERCEIVE embroidery and a flash of red beneath the brim. A playful extension of the Camera Shy story.",
+    "art": "identity4",
+    "capsule": "Every side",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Seen / Unseen convertible bag",
+    "color": "Black / cherry / chrome",
+    "category": "Bags",
+    "description": "Choose what you reveal. A convertible shoulder-bag concept pairing a quiet matte-black body with a removable cherry-red statement flap, oval links and two strap lengths. SEEN and UNSEEN marks carry the duality through the details.",
+    "art": "identity5",
+    "capsule": "Every side",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Current cropped track set",
+    "color": "Cobalt / ivory",
+    "category": "Matching sets",
+    "art": "blue0",
+    "capsule": "Blue edit",
+    "description": "A cropped zip hoodie with sweeping ivory racing panels and matching wide-leg track pants. The two-piece concept brings the track set in your reference into a sharper, flowing silhouette.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Shadow cropped cargo set",
+    "color": "Washed black",
+    "category": "Matching sets",
+    "art": "black0",
+    "capsule": "Black edit",
+    "description": "A very cropped zip hoodie with sculpted sleeves paired with loose parachute cargo pants. Tonal branding and a double zipper keep this two-piece set understated.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Cloud cropped lounge set",
+    "color": "Ivory",
+    "category": "Matching sets",
+    "art": "white0",
+    "capsule": "White edit",
+    "description": "A sculptural cropped zip hoodie and matching wide-leg lounge pants. Curved tonal rib panels and an oval pull bring detail to the full ivory two-piece set.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Sugar cropped terry set",
+    "color": "Bubblegum / ivory",
+    "category": "Matching sets",
+    "art": "pink0",
+    "capsule": "Pink edit",
+    "description": "A cropped zip hoodie with rounded sleeves, ivory piping and matching relaxed shorts. A coordinated terry two-piece directly inspired by your pink cropped hoodie and short-set ideas.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tidal sculpted bikini",
+    "color": "Ice blue / midnight",
+    "category": "Swimwear",
+    "art": "blue1",
+    "capsule": "Blue edit",
+    "description": "A sculpted balconette swim set with curved midnight binding and small oval links. A more structured take on the blue swimwear in your board.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "match": 93
+  },
+  {
+    "id": 26,
+    "name": "Eclipse cutout swimsuit",
+    "color": "Black / silver",
+    "category": "Swimwear",
+    "art": "black1",
+    "capsule": "Black edit",
+    "description": "An asymmetric one-piece concept with a sculptural draped strap, waist cutout and oval metal join.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "match": 94
+  },
+  {
+    "id": 32,
+    "name": "Dune asymmetric bikini",
+    "color": "Chalk / sand",
+    "category": "Swimwear",
+    "art": "white1",
+    "capsule": "White edit",
+    "description": "A one-shoulder bikini concept with sand binding and small champagne oval hardware. Clean lines with an asymmetric point of view.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "match": 95
+  },
+  {
+    "id": 38,
+    "name": "Petal ruched bikini",
+    "color": "Blush / deep rose",
+    "category": "Swimwear",
+    "art": "pink1",
+    "capsule": "Pink edit",
+    "description": "A ruched bandeau bikini concept with small rose bows and an oval center clasp. Soft texture and controlled hardware details.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "match": 91
+  },
+  {
+    "id": 21,
+    "name": "Arc mini duffle",
+    "color": "Cobalt / ivory",
+    "category": "Bags",
+    "art": "blue2",
+    "capsule": "Blue edit",
+    "description": "A curved mini duffle with ivory straps and oval silver hardware, coordinating with the Current track set.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Crescent duffle",
+    "color": "Black / silver",
+    "category": "Bags",
+    "art": "black2",
+    "capsule": "Black edit",
+    "description": "A curved statement duffle with a padded twist handle and oversized oval connectors, designed around a soft crescent profile.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Halo beach tote",
+    "color": "Ivory / sand",
+    "category": "Bags",
+    "art": "white2",
+    "capsule": "White edit",
+    "description": "A structured canvas tote with oversized oval handles and sand-colored corner details, inspired by the beach bags in your reference.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pillow mini duffle",
+    "color": "Vivid rose / silver",
+    "category": "Bags",
+    "art": "pink2",
+    "capsule": "Pink edit",
+    "description": "A quilted mini duffle with padded handles, curved quilting and oversized silver oval links. A playful statement bag in a saturated rose.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Ripple mesh skirt set",
+    "color": "Ice blue",
+    "category": "Matching sets",
+    "art": "blue3",
+    "capsule": "Blue edit",
+    "description": "An airy open-knit long-sleeve top and asymmetric mini skirt. A coordinated two-piece resort layer inspired by the mesh textures in your board.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Afterdark wrap set",
+    "color": "Black",
+    "category": "Matching sets",
+    "art": "black3",
+    "capsule": "Black edit",
+    "description": "An asymmetric draped halter and matching wrap mini skort with discreet silver details. A coordinated two-piece look for the evening side of Omnivert.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Tide knit wrap set",
+    "color": "Ivory",
+    "category": "Matching sets",
+    "art": "white3",
+    "capsule": "White edit",
+    "description": "A boatneck open-knit top and long wrap mesh skirt with an asymmetric hem. A coordinated two-piece resort look centered on texture.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Blush rib wrap set",
+    "color": "Pale pink / deep rose",
+    "category": "Matching sets",
+    "art": "pink3",
+    "capsule": "Pink edit",
+    "description": "An asymmetric ribbed crop tank and matching wrap skort, connected by contrast stitching and an oval side clasp. A complete two-piece concept.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Slipstream sport jersey",
+    "color": "Midnight / cobalt / ivory",
+    "category": "Clothing",
+    "art": "blue4",
+    "capsule": "Blue edit",
+    "description": "An oversized mesh jersey with curved contrast panels and an original oval graphic. Designed as the bold sport piece of the blue capsule.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Midnight palms shirt",
+    "color": "Washed charcoal / cream",
+    "category": "Clothing",
+    "art": "black4",
+    "capsule": "Black edit",
+    "description": "A relaxed resort shirt with an original subtle palm line-art placement. A nod to the illustrated shirts in your reference, with a darker palette.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Contour racing shirt",
+    "color": "White / cobalt",
+    "category": "Clothing",
+    "art": "white4",
+    "capsule": "White edit",
+    "description": "A boxy cropped shirt with curved cobalt shoulder piping and an inventive hem, combining crisp shirting with racing references.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Sunfade palms shirt",
+    "color": "Faded pink / charcoal",
+    "category": "Clothing",
+    "art": "pink4",
+    "capsule": "Pink edit",
+    "description": "An oversized wide-sleeve shirt with original charcoal palm artwork near the hem, drawing from the pink illustrated resortwear in your board.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Wave claw clip",
+    "color": "Translucent cobalt",
+    "category": "Accessories",
+    "art": "blue5",
+    "capsule": "Blue edit",
+    "description": "An elongated wave-shaped claw clip concept with sculptural acetate, interlocking teeth and a polished silver spring.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Obsidian claw clip",
+    "color": "Jet black / silver",
+    "category": "Accessories",
+    "art": "black5",
+    "capsule": "Black edit",
+    "description": "An architectural glossy claw clip with a curved shell and oval silver inlay. A small accessory carrying the same design language as the bags.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Pearl loop claw clip",
+    "color": "Milk white / champagne",
+    "category": "Accessories",
+    "art": "white5",
+    "capsule": "White edit",
+    "description": "A pearlescent elongated-loop claw clip with visible interlocking teeth and a champagne oval accent.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Petal claw clip",
+    "color": "Translucent strawberry",
+    "category": "Accessories",
+    "art": "pink5",
+    "capsule": "Pink edit",
+    "description": "A rounded petal-shell claw clip with visible teeth and a chrome oval spring detail, coordinating with the pink capsule.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Axis one-shoulder bikini",
+    "color": "Scarlet / ivory",
+    "category": "Swimwear",
+    "art": "r0",
+    "capsule": "Red edit",
+    "description": "A one-shoulder swim silhouette with contrast binding and an oval clasp. A sharper, sportier take on resort swimwear.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "match": 92
+  },
+  {
+    "id": 14,
+    "name": "Apex cropped racing jacket",
+    "color": "Cherry / ivory",
+    "category": "Clothing",
+    "art": "r1",
+    "capsule": "Red edit",
+    "description": "A cropped racing shape with sweeping contrast piping, sculpted sleeves and a double-zip front.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Loop mini duffle",
+    "color": "Oxblood / silver",
+    "category": "Bags",
+    "art": "r2",
+    "capsule": "Red edit",
+    "description": "A compact curved duffle with diagonal paneling and a bold oval handle connector. A statement shape for day or night.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Swerve draped halter",
+    "color": "Cherry",
+    "category": "Clothing",
+    "art": "r3",
+    "capsule": "Red edit",
+    "description": "An asymmetric halter with a diagonal draped hem and sculptural neckline detail. Designed to move between resort and evening.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Velocity mesh jersey",
+    "color": "Scarlet / ivory / black",
+    "category": "Clothing",
+    "art": "r4",
+    "capsule": "Red edit",
+    "description": "An oversized mesh jersey with angular graphic placement and contrasting panels. A streetwear statement with a softer styling potential.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Switch wrap skort",
+    "color": "Deep red",
+    "category": "Clothing",
+    "art": "r5",
+    "capsule": "Red edit",
+    "description": "An asymmetric wrap skort concept with a pleated panel and oval side buckle, balancing tailored and technical details.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Forma duffle bag",
+    "color": "Espresso",
+    "category": "Bags",
+    "art": "p1",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Transit duffle bag",
+    "color": "Ocean / ivory",
+    "category": "Bags",
+    "art": "n3",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sol triangle bikini",
+    "color": "Dusty rose",
+    "category": "Swimwear",
+    "art": "p0",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Orbit cap",
+    "color": "Olive",
+    "category": "Accessories",
+    "art": "p3",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Core zip hoodie",
+    "color": "Black",
+    "category": "Clothing",
+    "art": "n0",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cropped zip hoodie",
+    "color": "Rose",
+    "category": "Clothing",
+    "art": "n1",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Signature tee",
+    "color": "Ivory",
+    "category": "Clothing",
+    "art": "n2",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Nocturne one piece",
+    "color": "Black",
+    "category": "Swimwear",
+    "art": "n4",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Drift knit top",
+    "color": "Ivory",
+    "category": "Clothing",
+    "art": "p2",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Coast tote",
+    "color": "Natural / olive",
+    "category": "Bags",
+    "art": "n5",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Utility shorts",
+    "color": "Olive",
+    "category": "Clothing",
+    "art": "n6",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Afterhours shirt",
+    "color": "Midnight",
+    "category": "Clothing",
+    "art": "n7",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sol bandeau",
+    "color": "Rose",
+    "category": "Swimwear",
+    "art": "n8",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]
