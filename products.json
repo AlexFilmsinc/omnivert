@@ -1,5 +1,44 @@
 [
   {
+    "id": 97,
+    "name": "Veil Arc hooded jacket",
+    "color": "Black / graphite / silver",
+    "category": "Clothing",
+    "capsule": "Black edit",
+    "art": "veil",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "description": "A boxy hooded jacket concept with a sculpted funnel collar, curved reflective seam accents, charcoal side panels and oval two-way zipper hardware. A broken oval yoke continues across the back. Designed to move between understated daytime texture and a sharper after-dark outline. Final materials and fit are to be confirmed.",
+    "gallery": [
+      {
+        "kind": "art",
+        "art": "veil",
+        "label": "Front"
+      },
+      {
+        "kind": "model-view",
+        "art": "veil",
+        "label": "On model"
+      },
+      {
+        "kind": "art",
+        "art": "veil-back",
+        "label": "Back"
+      },
+      {
+        "kind": "art",
+        "art": "veil-alt",
+        "label": "Hood up"
+      }
+    ]
+  },
+  {
     "id": 91,
     "name": "Petal men's swim trunks",
     "color": "Baby pink / deep rose",
